@@ -1,0 +1,11 @@
+{
+  "test_loss": 0.2298877965658903,
+  "test_accuracy": 0.90625,
+  "test_macro_f1": 0.9076556833221608,
+  "best_validation_macro_f1": 0.9326898230105561,
+  "class_names": [
+    "angular_leaf_spot",
+    "bean_rust",
+    "healthy"
+  ]
+}
